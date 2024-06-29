@@ -1,0 +1,29 @@
+abhineec
+011000
+100000
+100011
+000010
+001101
+001010
+
+Final Exam Period 1 => mat100 eng050 his098 
+Final Exam Period 2 => che080 eng040 
+Final Exam Period 3 => gym000 
+
+011111101
+101111111
+110000000
+110011111
+110101111
+110110101
+110111011
+010110101
+110111110
+
+Final Exam Period 1 => ENG100 ECN110 
+Final Exam Period 2 => PSY050 
+Final Exam Period 3 => MAT220 MAT010 
+Final Exam Period 4 => CHM230 
+Final Exam Period 5 => CSC401 
+Final Exam Period 6 => HST080 
+Final Exam Period 7 => PHY100 
