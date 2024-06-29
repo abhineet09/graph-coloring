@@ -1,1 +1,1 @@
-# graph-coloring
+# graph-coloring-red-black-tree
